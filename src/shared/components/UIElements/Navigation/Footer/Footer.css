@@ -1,0 +1,18 @@
+.Footer {
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	/* height: 100px; */
+	background: #b9500a;
+	font-size: 1.3rem;
+	font-family: "Poppins", sans-serif;
+}
+
+.myName {
+	color: #ffeb99;
+}
+
+.myName:hover {
+	color: #f8df00;
+}
